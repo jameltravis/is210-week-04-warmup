@@ -1,4 +1,4 @@
-#!/Users/jtza/anaconda3/envs/is210/bin/python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """This module provides a function that knows what you mean"""
 
