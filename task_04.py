@@ -17,7 +17,7 @@ def too_many_kittens(kittens, litterboxes, catfood):
 
     Returns:
         bool: not (litterboxes >= kittens and catfood)
-    
+
     Examples:
 
         >>> too_many_kittens(12, 12, False)
